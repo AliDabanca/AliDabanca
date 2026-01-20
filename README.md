@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**AliDabanca/AliDa# Merhaba, Ben Ali Dabanca
+
+ Merhaba, Ben Ali Dabanca
 
 Genç bir girişimci ve yazılım geliştiriciyim. Üniversite yıllarımdan itibaren C ve Java ile başladığım yazılım yolculuğuma; web teknolojileri, mobil uygulama geliştirme ve veri analizi projeleriyle devam ediyorum. Teknolojiyi projelerime entegre ederken yapay zeka araçlarını etkin bir şekilde kullanmaya ve sistem mimarilerini öğrenmeye odaklanıyorum.
 
@@ -30,17 +30,4 @@ Genç bir girişimci ve yazılım geliştiriciyim. Üniversite yıllarımdan iti
 - [LinkedIn Profilim](https://www.linkedin.com/in/ali-dabanca-70148a1b0/)
 - E-posta: alidabanca064@gmail.com
 
----
-*Gerçek ihtiyaçlara yönelik çözümler üretmeye ve yeni teknolojileri öğrenmeye devam ediyorum.*banca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
