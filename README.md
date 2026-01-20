@@ -1,5 +1,5 @@
 Merhaba, Ben Ali Dabanca
-Yazılım dünyasında kendimi geliştiren bir öğrenciyim. Karmaşık teorilerden ziyade, çalışan projeler üretmeye ve bir işe girerek bir takımın parçası olmak istiyorum.
+Yazılım dünyasında kendimi geliştiren bir öğrenciyim. Karmaşık teorilerden ziyade, çalışan projeler üretmeye ve işe girerek bir takımın parçası olmak istiyorum.
 
 Nelerle İlgileniyorum?
 Web & Backend: Node.js (Express) ve Python (Django) ile sunucu taraflı projeler geliştiriyorum. JavaScript ve React kullanarak web arayüzleri hazırlıyorum. Tabii ki daha yetkin düzeyde değil kendi çapımda.
