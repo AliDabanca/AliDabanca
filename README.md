@@ -26,6 +26,14 @@ Genç bir girişimci ve yazılım geliştiriciyim. Üniversite yıllarımdan iti
 - C, Python ve Java dillerinde temel programlama eğitimi aldım.
 - Modern yazılım dünyasında yapay zeka destekli kodlama ve proje geliştirme metodolojilerini uyguluyorum.
 
+## Gelişim Odaklı Çalışmalarım
+
+Şu anda yazılımda kalite, sürdürülebilirlik ve profesyonel mimari üzerine kendimi geliştirmek için aşağıdaki alanlara yoğunlaşıyorum:
+- Tasarım Prensipleri ve Mimari: Kodun ölçeklenebilir ve esnek olması için Singleton, Factory ve Observer gibi Design Pattern'leri öğreniyor ve projelerimde uyguluyorum.
+- Temiz Kod (Clean Code): Daha okunabilir projeler üretmek için SOLID prensiplerine uygun geliştirme süreçlerine odaklanıyorum.
+- Konteynerleştirme: Uygulamaların her ortamda tutarlı çalışmasını sağlamak amacıyla Docker ve Docker Compose teknolojilerini öğreniyorum.
+- Deployment Süreçleri: Projelerimi Supabase ve Render gibi platformlar üzerinden canlıya alarak uçtan uca ürün geliştirme süreçlerini deneyimliyorum.
+
 ## Bağlantılar
 - [LinkedIn Profilim](https://www.linkedin.com/in/ali-dabanca-70148a1b0/)
 - E-posta: alidabanca064@gmail.com
